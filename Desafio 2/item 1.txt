@@ -1,0 +1,5 @@
+SELECT 
+    categoria
+COUT (*) as Qtd_cat
+FROM produto
+GROUP BY categoria ;

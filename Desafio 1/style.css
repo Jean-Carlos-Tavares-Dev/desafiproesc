@@ -1,0 +1,24 @@
+		#declaracao{
+            text-align: center;
+            text-transform: uppercase;
+            margin: auto;
+        }
+        #corpo{
+			text-align: justify;
+			text-justify: inter-word;    
+		}
+        #nomes{
+            text-transform: uppercase;
+        }
+        #cidade{
+            text-align: right;   
+        }
+        #linha{
+        width: 300px;
+        border: 1px outset #000;
+        text-align: center;
+        }
+        #secretaria{
+            text-align: center;
+        }
+        

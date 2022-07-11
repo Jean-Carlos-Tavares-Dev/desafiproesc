@@ -1,0 +1,3 @@
+UPDATE produtos
+set categoria = 'Frutas'
+where categoria = 'Cremes e Geleias';

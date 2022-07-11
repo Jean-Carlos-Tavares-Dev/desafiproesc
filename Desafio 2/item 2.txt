@@ -1,0 +1,4 @@
+
+SELECT categoria, AVG(preço) AS media
+FROM produtos 
+GROUP BY categoria;
